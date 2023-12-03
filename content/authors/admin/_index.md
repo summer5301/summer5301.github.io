@@ -56,15 +56,15 @@ education:
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
     date_start:  
-    date_end: '2021-06-28'
+    date_end: '2023-06-28'
     summary: |
-      Second bachelor's degree
+        Second bachelor's degree
   - area: BSc Biology
     institution: Georgia State University
     date_start: 
     date_end: '2021-06-28'
     summary: |
-      First bachelor's degree
+        First bachelor's degree
   - area: BEng Bioengineering
     institution: Southwest Jiaotong University (China)
     date_start: 
