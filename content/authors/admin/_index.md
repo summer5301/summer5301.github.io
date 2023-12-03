@@ -52,24 +52,29 @@ education:
     date_start:  ''
     date_end:  '2022-12-22'
     summary: |
-      RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
+      - RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
+      - Valedictorian of the Recognition Ceremony at School of Medicine, WashU
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
     date_start:  
     date_end: '2023-06-28'
     summary: |
-        Second bachelor's degree
+        - Second bachelor's degree
+        - Wiley M. Suttles Math Award
   - area: BSc Biology
     institution: Georgia State University
     date_start: 
     date_end: '2021-06-28'
     summary: |
-        First bachelor's degree
+        - First bachelor's degree
+        - In-state Scholarship; Presidential List; Member of the Honors College
   - area: BEng Bioengineering
     institution: Southwest Jiaotong University (China)
     date_start: 
     date_end: 
-    summary: Joint bachelor's degree of SWTJU and GSU
+    summary: |
+        - Joint bachelor's degree of SWTJU and GSU
+        - Second-class Comprehensive Scholarship 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
