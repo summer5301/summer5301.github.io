@@ -58,14 +58,13 @@ education:
     date_start:  
     date_end: '2021-06-28'
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Second bachelor's degree
   - area: BSc Biology
     institution: Georgia State University
     date_start: 
     date_end: '2021-06-28'
+    summary: |
+      First bachelor's degree
 
 
 # Skills
