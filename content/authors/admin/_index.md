@@ -52,9 +52,7 @@ education:
     date_start:  ''
     date_end:  '2022-12-22'
     summary: |
-      Experience:
-      - Main courses: Survival Analysis, Data Mining (R),Bioinformatics, Applied Deep Learning Using Health Data (Python)
-      - RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
+      RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
     date_start:  
