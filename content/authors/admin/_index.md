@@ -69,7 +69,8 @@ education:
     institution: Southwest Jiaotong University (China)
     date_start: 
     date_end: 
-    summary: | Joint bachelor's degree of SWTJU and GSU
+    summary: |
+      Joint bachelor's degree of SWTJU and GSU
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
