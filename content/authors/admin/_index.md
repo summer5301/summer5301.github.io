@@ -84,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant
-    company_name: Mentor: Dr. Christopher Yang
+    company_name: Dr. Christopher Yang
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
