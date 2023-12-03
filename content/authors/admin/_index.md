@@ -50,7 +50,7 @@ education:
   - area: MS Biostatiscs and Data Science
     institution: Washington University in St. Louis
     date_start:  ''
-    date_end:  ''
+    date_end:  '2022-12-22'
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -59,7 +59,7 @@ education:
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
     date_start:  
-    date_end:  
+    date_end: '2021-06-28'
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -67,7 +67,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biology
     institution: Georgia State University
-    date_start:  
+    date_start: '2021-06-28'
     date_end: 
 
 
