@@ -22,7 +22,7 @@ role: Ph.D. Student in Information Science
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: College of Computing & Informatics, Drexel University
-    url: https://www.example.com/
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,14 +30,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kexin.shang@drexel.edu'
     label: E-mail Me
-  - icon: x
-    url: https://twitter.com/GetResearchDev
   - icon: github
     url: https://github.com/summer5301
   - icon: linkedin
-    url: https://www.linkedin.com/kexin-shang5301
+    url: https://www.linkedin.com/in/kexin-shang5301/
   - icon: instagram
-    url: https://www.instagram.com/shang5301
+    url: https://www.instagram.com/shang_5301
 
 education:
   - area: Ph.D. Information Science
@@ -45,17 +43,15 @@ education:
     date_start: 
     date_end:  
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by [Prof Christopher Yang](https://cci.drexel.edu/faculty/cyang/). We focus on the intersection of AI and health care, aiming to deliver a more trustworthy AI agent in disease detecting, diagnosis reasoning and more.
+    # button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: MS Biostatiscs and Data Science
     institution: Washington University in St. Louis
     date_start:  
     date_end:  
     summary: |
-      #GPA: 3.9/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -65,35 +61,14 @@ education:
     date_start:  
     date_end:  
     summary: |
-      #GPA: 3.5/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Mathematics (Statistics)
+  - area: BSc Biology
     institution: Georgia State University
     date_start:  
-    date_end:  
-    summary: |
-      #GPA: 3.5/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Research Assistant
-    company_name: Dr. Christopher Yang
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-10-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 
 
 
 # Skills
@@ -105,13 +80,13 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-bar
-      - name: SQL
+      - name: Statistics testing
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -135,8 +110,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
