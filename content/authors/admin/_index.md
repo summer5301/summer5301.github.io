@@ -49,8 +49,8 @@ education:
     #  url: 'https://example.com'
   - area: MS Biostatiscs and Data Science
     institution: Washington University in St. Louis
-    date_start:  
-    date_end:  
+    date_start:  ''
+    date_end:  ''
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
