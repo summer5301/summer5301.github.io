@@ -52,10 +52,9 @@ education:
     date_start:  ''
     date_end:  '2022-12-22'
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Experience:
+      - Main courses: Survival Analysis, Data Mining (R),Bioinformatics, Applied Deep Learning Using Health Data (Python)
+      - RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
     date_start:  
@@ -67,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biology
     institution: Georgia State University
-    date_start: '2021-06-28'
-    date_end: 
+    date_start: 
+    date_end: '2021-06-28'
 
 
 # Skills
