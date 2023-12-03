@@ -85,7 +85,7 @@ education:
 work:
   - position: Research Assistant
     company_name: Mentor: Dr. Christopher Yang
-    company_url: https://www.example.com/
+    company_url: ''
     company_logo: ''
     date_start: 2023-10-01
     date_end: ''
