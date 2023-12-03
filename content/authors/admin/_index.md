@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Kexin Shang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: AKA Summer Shang
 
 # Full name (for SEO)
 first_name: Shiung Wu
