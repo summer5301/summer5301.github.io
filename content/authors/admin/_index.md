@@ -72,7 +72,7 @@ education:
   - area: BEng Bioengineering
     institution: Southwest Jiaotong University (China)
     date_start: 
-    date_end: 
+    date_end: '2021-06-28'
     summary: |
         - Joint bachelor's degree of SWTJU and GSU
         - Second-class Comprehensive Scholarship (equivalently $420)
