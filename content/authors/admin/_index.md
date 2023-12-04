@@ -90,7 +90,7 @@ skills:
         description: ''
         percent: 60
         icon: chart-bar
-      - name: Statistics testing
+      - name: Statistical testing
         description: ''
         percent: 90
         icon: circle-stack
