@@ -121,7 +121,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awarjknjds:
+# awards:
 #  - title: Neural Networks and Deep Learning
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    date: '2023-11-25'
@@ -129,7 +129,7 @@ languages:
 #    icon: coursera
 #    summary: |
 #    "blahblah"
----
+
 
 Hi there, welcome to my personal page! 
 I am a Ph.D. student who is working on healthcare-centric large language model at Drexel university. Possessing unique education experience spanning life sciences, statistics, and information science, I have fervent dedication to promote an AI revolution in healthcare industry. 
