@@ -43,7 +43,7 @@ education:
     date_start: 
     date_end:  
     summary: |
-      Supervised by [Prof Christopher Yang](https://cci.drexel.edu/faculty/cyang/). We focus on the intersection of AI and health care, aiming to deliver a more trustworthy AI agent in disease detecting, diagnosis reasoning and more.
+      Supervised by [Prof Christopher Yang](https://cci.drexel.edu/faculty/cyang/). We focus on the intersection of AI and health care, aiming to deliver a more trustworthy AI agent in disease detection, diagnosis reasoning and more.
     # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
