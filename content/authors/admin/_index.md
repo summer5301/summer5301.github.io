@@ -61,7 +61,7 @@ education:
     date_end: '2023-06-28'
     summary: |
         - Second bachelor's degree
-        - Wiley M. Suttles Math Award
+        - Wiley M. Suttles Math Award ($750)
   - area: BSc Biology
     institution: Georgia State University
     date_start: 
@@ -75,7 +75,7 @@ education:
     date_end: 
     summary: |
         - Joint bachelor's degree of SWTJU and GSU
-        - Second-class Comprehensive Scholarship 
+        - Second-class Comprehensive Scholarship (equivalently $420)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -131,4 +131,5 @@ awards:
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
-Hi there! I am a passionate student researcher 
+Hi there, welcome to my personal page! 
+I am a Ph.D. student who is working on healthcare-oriented large language model at Drexel university. As one has comprehensive education background across life science, statistics and information sicence, it is with great passion to promote an AI revolution in healthcare industry. 
