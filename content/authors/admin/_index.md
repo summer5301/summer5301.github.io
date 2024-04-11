@@ -110,7 +110,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
 languages:
   - name: English
     percent: 75
