@@ -30,11 +30,11 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kexin.shang@drexel.edu'
     label: E-mail Me
-  - icon: github 
+  - icon: brands/github 
     url: https://github.com/summer5301
-  - icon: linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/kexin-shang5301/
-  - icon: instagram 
+  - icon: brands/instagram 
     url: https://www.instagram.com/shang_5301
 
 education:
