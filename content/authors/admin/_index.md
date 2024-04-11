@@ -22,7 +22,7 @@ role: Ph.D. Student in Information Science
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: College of Computing & Informatics, Drexel University
-    url: ''
+    url: 'https://drexel.edu/cci/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,11 +30,11 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kexin.shang@drexel.edu'
     label: E-mail Me
-  - icon: github
+  - icon: github 
     url: https://github.com/summer5301
   - icon: linkedin
     url: https://www.linkedin.com/in/kexin-shang5301/
-  - icon: instagram
+  - icon: instagram 
     url: https://www.instagram.com/shang_5301
 
 education:
@@ -117,7 +117,7 @@ languages:
   - name: Chinese
     percent: 100
 
-# Awards.
+# Amwards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
