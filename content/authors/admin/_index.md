@@ -52,8 +52,8 @@ education:
     date_start:  ''
     date_end:  '2022-12-22'
     summary: |
-      - RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population
-      - Valedictorian of the Recognition Ceremony at School of Medicine, WashU
+      - RAship project: Harnessing Mobile Technology to Reduce Mental Health Disorders in College Population;
+      - Valedictorian of the Recognition Ceremony at School of Medicine, WashU;
       - Merit Scholarship ($11,886), WUSTL
   - area: BSc Mathematics (Statistics)
     institution: Georgia State University
