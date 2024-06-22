@@ -79,42 +79,6 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 60
-        icon: chart-bar
-      - name: Statistical testing
-        description: ''
-        percent: 90
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: animals/dog
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-languages:
-  - name: English
-    percent: 75
-  - name: Chinese
-    percent: 100
 ---
 
 Hi there, welcome to my personal page! 
