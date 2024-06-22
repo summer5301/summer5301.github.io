@@ -76,9 +76,6 @@ education:
     summary: |
         - Joint bachelor's degree of SWTJU and GSU
         - Second-class Comprehensive Scholarship (equivalently $420)
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 ---
 
 Hi there, welcome to my personal page! 
